@@ -1,6 +1,6 @@
-URL: uniform resource identifier
+URI: uniform resource identifier
 
-There are 4 part of a URL:
+There are 4 part of a URI:
 
 1. protocol \(HTTP..\)
 2. Hostname
