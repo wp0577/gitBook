@@ -10,4 +10,6 @@
 * [HTML](html.md)
 * [CSS](css.md)
   * [overflow](css/overflow.md)
+* [Javascript](javascript.md)
+  * [DataType](javascript/datatype.md)
 
