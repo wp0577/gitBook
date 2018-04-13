@@ -14,4 +14,6 @@
   * [DataType](javascript/datatype.md)
 * [Json](json.md)
   * [JQeury与JS区别](json/jqeuryyu-js-qu-bie.md)
+  * [Case1: 定时广告弹出](json/case1-ding-shi-guang-gao-dan-chu.md)
+  * [Selector](json/selector.md)
 
