@@ -15,6 +15,6 @@
 * [Json](json.md)
   * [JQeury与JS区别](json/jqeuryyu-js-qu-bie.md)
   * [Case1: 定时广告弹出](json/case1-ding-shi-guang-gao-dan-chu.md)
-  * [Case2: 隔行换色](json/case2-ge-xing-huan-se.md)
+  * [Case2: 隔行换色和全选](json/case2-ge-xing-huan-se.md)
   * [Selector](json/selector.md)
 
