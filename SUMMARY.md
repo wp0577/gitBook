@@ -12,9 +12,11 @@
   * [overflow](css/overflow.md)
 * [Javascript](javascript.md)
   * [DataType](javascript/datatype.md)
-* [Json](json.md)
+* [JQeury](json.md)
   * [JQeury与JS区别](json/jqeuryyu-js-qu-bie.md)
   * [Case1: 定时广告弹出](json/case1-ding-shi-guang-gao-dan-chu.md)
   * [Case2: 隔行换色和全选](json/case2-ge-xing-huan-se.md)
+  * [Case3: 省市二级联动](json/case3-sheng-shi-er-ji-lian-dong.md)
   * [Selector](json/selector.md)
+  * [JQ的遍历操作](json/jqde-bian-li-cao-zuo.md)
 
