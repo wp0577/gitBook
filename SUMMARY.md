@@ -17,6 +17,7 @@
   * [Case1: 定时广告弹出](json/case1-ding-shi-guang-gao-dan-chu.md)
   * [Case2: 隔行换色和全选](json/case2-ge-xing-huan-se.md)
   * [Case3: 省市二级联动](json/case3-sheng-shi-er-ji-lian-dong.md)
+  * [Case4: 下拉列表左右选择](json/case4-xia-la-lie-biao-zuo-you-xuan-ze.md)
   * [Selector](json/selector.md)
   * [JQ的遍历操作](json/jqde-bian-li-cao-zuo.md)
 
