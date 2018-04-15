@@ -20,4 +20,5 @@
   * [Case4: 下拉列表左右选择](json/case4-xia-la-lie-biao-zuo-you-xuan-ze.md)
   * [Selector](json/selector.md)
   * [JQ的遍历操作](json/jqde-bian-li-cao-zuo.md)
+  * [JQuery-validate插件（表单校验）](json/jquery-validatecha-jian-ff08-biao-dan-xiao-yan-ff09.md)
 
