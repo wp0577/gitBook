@@ -25,4 +25,5 @@
   * [Viewport](bootstrap/viewpoint.md)
   * [模板](bootstrap/mo-ban.md)
   * [实例](bootstrap/shi-li.md)
+  * [使用说明](bootstrap/shi-yong-shuo-ming.md)
 
