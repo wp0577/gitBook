@@ -28,5 +28,8 @@
   * [使用说明](bootstrap/shi-yong-shuo-ming.md)
   * [定制](bootstrap/ding-zhi.md)
 * [Mysql](mysql.md)
-  * JDBC
+  * [JDBC](mysql/jdbc.md)
+    * [JDBC范例](mysql/jdbc/jdbcfan-li.md)
+    * [Preparedstatement——注入问题](mysql/jdbc/preparement2014-2014-zhu-ru-wen-ti.md)
+  * [表关系结构](mysql/biao-guan-xi-jie-gou.md)
 
