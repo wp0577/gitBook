@@ -2,12 +2,12 @@
 
 ```
 一：对数据库的操作
-1.	创建一个库
+1.    创建一个库
 create database 库名
 create database 库名 character set 编码
-2.	删除一个库
+2.    删除一个库
 drop database 库名
-3.	使用库
+3.    使用库
 use 库名
 4.      查看当前正在操作的库
 select database<>;
@@ -15,9 +15,9 @@ select database<>;
 二：对数据库表的操作
 1.创建一张表
 create table 表名(
-	字段名 类型(长度) [约束],
-	字段名 类型(长度) [约束],
-	字段名 类型(长度) [约束]
+    字段名 类型(长度) [约束],
+    字段名 类型(长度) [约束],
+    字段名 类型(长度) [约束]
 );
 2.查看数据库表
 创建完成后，我们可以查看数据库表
@@ -49,12 +49,12 @@ insert into 表名 values(值1,值2,值3……)
 直接修改数据库安装目录里面的my.ini文件的第57行
 
 方式二：
-	set names gbk;
+    set names gbk;
 
 2.修改表记录
 2.1 不带条件的
 update 表名 set 字段名=值, 字段名=值, 字段名=值……
- 
+
 2.2 带条件的
 update 表名 set字段名=值, 字段名=值, 字段名=值…… where 条件
 
@@ -68,7 +68,7 @@ delete from 表名 where 条件
 insert into tbl_user values(null,’老王’,’666’);
 
 删除操作
-	delete from 表名;
+    delete from 表名;
 
 3.3 面试题
 说说delete与truncate的区别？
@@ -80,7 +80,7 @@ Delete操作演示：
 
 4.查询操作
 语法：
-	select [distinct] *| 列名，列名 from 表名 [where条件]
+    select [distinct] *| 列名，列名 from 表名 [where条件]
 4.1 简单查询
 1.查询所有商品
 select * from product；
@@ -124,13 +124,9 @@ select pname,price+10 from product;
 
 ![](/as7/import.png)
 
-
-
 2.获得所有商品的平均价格
 
 select avg&lt;price&gt; from product;
-
-
 
 3.获得所有商品的个数
 
@@ -154,8 +150,6 @@ select cid,avg&lt;price&gt; from product group by cid having avg&lt;price&gt; &g
 
 select cid,avg&lt;price&gt; from product group by cid having avg&lt;price&gt; &gt;2000;
 
-
-
 #### 4.6 查询总结
 
 select 一般在的后面的内容都是要查询的字段
@@ -164,11 +158,7 @@ from 要查询到表
 
 where
 
-group by
-
-having分组后带有条件只能使用having
+group by having 分组后带有条件只能使用having
 
 order by它必须放到最后面
-
-
 
