@@ -27,4 +27,5 @@
   * [实例](bootstrap/shi-li.md)
   * [使用说明](bootstrap/shi-yong-shuo-ming.md)
   * [定制](bootstrap/ding-zhi.md)
+* [Mysql](mysql.md)
 
