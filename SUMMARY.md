@@ -37,4 +37,14 @@
   * [JDBC工具类](mysql/jdbcgong-ju-lei.md)
     * [V2使用properties和bundle](mysql/jdbcgong-ju-lei/v2shi-yong-properties-he-bundle.md)
     * V3使用类加载和流
+* [连接池](mysql/lian-jie-chi.md)
+    * [自定义连接池](mysql/lian-jie-chi/zi-ding-yi-lian-jie-chi.md)
+    * [C3P0连接池](mysql/lian-jie-chi/c3p0lian-jie-chi.md)
+    * DBCP连接池
+  * [DButil](mysql/dbutil.md)
+    * [JavaBean](mysql/dbutil/javabean.md)
+    * [configuration](mysql/dbutil/configuration.md)
+* [XML](xml.md)
+  * [Descrpition](xml/descrpition.md)
+  * [DTD约束](xml/dtdyue-shu.md)
 
