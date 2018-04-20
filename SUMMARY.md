@@ -39,4 +39,7 @@
   * [DButil](mysql/dbutil.md)
     * [JavaBean](mysql/dbutil/javabean.md)
     * [configuration](mysql/dbutil/configuration.md)
+* [XML](xml.md)
+  * [Descrpition](xml/descrpition.md)
+  * [DTD约束](xml/dtdyue-shu.md)
 
