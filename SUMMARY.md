@@ -32,4 +32,11 @@
     * [JDBC范例](mysql/jdbc/jdbcfan-li.md)
     * [Preparedstatement——注入问题](mysql/jdbc/preparement2014-2014-zhu-ru-wen-ti.md)
   * [表关系结构](mysql/biao-guan-xi-jie-gou.md)
+  * [连接池](mysql/lian-jie-chi.md)
+    * [自定义连接池](mysql/lian-jie-chi/zi-ding-yi-lian-jie-chi.md)
+    * [C3P0连接池](mysql/lian-jie-chi/c3p0lian-jie-chi.md)
+    * DBCP连接池
+  * [DButil](mysql/dbutil.md)
+    * [JavaBean](mysql/dbutil/javabean.md)
+    * [configuration](mysql/dbutil/configuration.md)
 
