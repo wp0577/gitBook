@@ -32,4 +32,7 @@
     * [JDBC范例](mysql/jdbc/jdbcfan-li.md)
     * [Preparedstatement——注入问题](mysql/jdbc/preparement2014-2014-zhu-ru-wen-ti.md)
   * [表关系结构](mysql/biao-guan-xi-jie-gou.md)
+    * [多表查询](mysql/biao-guan-xi-jie-gou/duo-biao-cha-xun.md)
+    * [子查询](mysql/biao-guan-xi-jie-gou/zi-cha-xun.md)
+  * [JDBC工具类](mysql/jdbcgong-ju-lei.md)
 
