@@ -35,4 +35,6 @@
     * [多表查询](mysql/biao-guan-xi-jie-gou/duo-biao-cha-xun.md)
     * [子查询](mysql/biao-guan-xi-jie-gou/zi-cha-xun.md)
   * [JDBC工具类](mysql/jdbcgong-ju-lei.md)
+    * [V2使用properties和bundle](mysql/jdbcgong-ju-lei/v2shi-yong-properties-he-bundle.md)
+    * V3使用类加载和流
 
