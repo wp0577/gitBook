@@ -47,4 +47,7 @@
 * [XML](xml.md)
   * [Descrpition](xml/descrpition.md)
   * [DTD约束](xml/dtdyue-shu.md)
+  * [Scheme约束](xml/schemeyue-shu.md)
+  * [XML解析](xml/xmljie-xi.md)
+    * [dom4j解析](xml/xmljie-xi/dom4jjie-xi.md)
 
