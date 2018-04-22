@@ -1,4 +1,6 @@
 ```
+*通过反射机制可以对xml文件内所有类进行实例化操作。
+
 反射
 1、什么是反射技术？
 动态获取指定类以及类中的内容(成员)，并运行其内容。
@@ -38,6 +40,11 @@ String className = "cn.itcast.bean.Person";
 Class clazz = Class.forName(className);
 //2，通过Class的方法完成该指定类的对象创建。
 Object object = clazz.newInstance();//该方法用的是指定类中默认的空参数构造函数完成的初始化。 
+//**
+*通过这个方法可以对xml文件内所有类进行实例化操作。
+
+
+
 
 清单1，获取字节码文件中的字段。
 Class clazz = Class.forName("cn.itcast.bean.Person");
