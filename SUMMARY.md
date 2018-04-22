@@ -52,7 +52,7 @@
     * [dom4j解析](xml/xmljie-xi/dom4jjie-xi.md)
   * [反射](xml/fan-she.md)
     * [实例](xml/fan-she/shi-li.md)
-* [Web](server.md)
+* [Java Web](server.md)
   * [WEB开发简介](server/webkai-fa-jian-jie.md)
   * [WEB服务器](server/webfu-wu-qi.md)
     * [tomcat](server/webfu-wu-qi/tomcat.md)
@@ -72,4 +72,7 @@
     * [request和response](chapter1/servlet/requesthe-response.md)
     * [cookie问题](chapter1/servlet/cookiewen-ti.md)
     * [ServletContext](chapter1/servlet/servletcontext.md)
+  * [JSP](server/jsp.md)
+    * [JSP语法](server/jsp/jspyu-fa.md)
+    * [JSP内置对象](server/jsp/jspnei-zhi-dui-xiang.md)
 
