@@ -52,4 +52,11 @@
     * [dom4j解析](xml/xmljie-xi/dom4jjie-xi.md)
   * [反射](xml/fan-she.md)
     * [实例](xml/fan-she/shi-li.md)
+* [Web](server.md)
+  * [WEB开发简介](server/webkai-fa-jian-jie.md)
+  * [WEB服务器](server/webfu-wu-qi.md)
+    * [tomcat](server/webfu-wu-qi/tomcat.md)
+      * [WEB应用](server/webfu-wu-qi/tomcat/tomcat.md)
+      * [配置虚拟目录与域名](server/webfu-wu-qi/tomcat/pei-zhi-xu-ni-mu-lu-yu-yu-ming.md)
+      * [tomcat与ide](server/webfu-wu-qi/tomcat/tomcatyu-ide.md)
 
