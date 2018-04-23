@@ -40,6 +40,7 @@
   * [连接池](mysql/lian-jie-chi.md)
     * [自定义连接池](mysql/lian-jie-chi/zi-ding-yi-lian-jie-chi.md)
     * [C3P0连接池](mysql/lian-jie-chi/c3p0lian-jie-chi.md)
+      * [静态代码块](mysql/lian-jie-chi/c3p0lian-jie-chi/jing-tai-dai-ma-kuai.md)
     * [DBCP连接池](mysql/lian-jie-chi/dbcplian-jie-chi.md)
     * [DButil](mysql/dbutil.md)
       * [JavaBean](mysql/dbutil/javabean.md)
