@@ -6,7 +6,11 @@
 * 配置文件设置参数（c3p0-config.xml）：
 
 //在导入配置文件后，通过ComboPooledDataSource方法即可调用配置文件内的属性内容
-
+//By default, c3p0 will look for an XML configuration file in its classloader's resource path 
+under the name "/c3p0-config.xml". That means the XML file should be placed in a directly or jar
+ file directly named in your applications CLASSPATH, in WEB-INF/classes, or some similar location.
+  If you prefer not to bundle your configuration with your code, you can specify an ordinary filesystem
+   location for c3p0's configuration file via the system property com.mchange.v2.c3p0.cfg.xml. 
 
 【C3P0改造工具类】
 public class JDBCUtils2 {
