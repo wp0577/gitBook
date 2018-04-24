@@ -76,4 +76,7 @@
   * [JSP](server/jsp.md)
     * [JSP语法](server/jsp/jspyu-fa.md)
     * [JSP内置对象](server/jsp/jspnei-zhi-dui-xiang.md)
+  * [EL](server/el.md)
+    * [实例](server/el/shi-li.md)
+  * [jstl](server/jstl.md)
 
