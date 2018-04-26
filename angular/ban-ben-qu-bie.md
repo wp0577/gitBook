@@ -11,10 +11,10 @@
 
 Angular 1 是一个典型的 MVC 架构 （Model - View - Controller ）， 其架构如图所示：
 
-![](http://upload-images.jianshu.io/upload_images/8940388-2be084ea9d0ab9f8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240 "MVC 架构示意图 ")
+![](http://upload-images.jianshu.io/upload_images/8940388-2be084ea9d0ab9f8.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240 "MVC 架构示意图 ")
 
 相比于 Angular 1 的MVC 架构， Angular 2 是一个典型的基于组件（component\) 架构。从这一点上来说，它与 React.js 结构相似。如下图所示：  
-![](http://upload-images.jianshu.io/upload_images/8940388-c59f497233f8b577.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240 "Angular 2  架构")
+![](http://upload-images.jianshu.io/upload_images/8940388-c59f497233f8b577.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240 "Angular 2  架构")
 
 ##### 为何匆忙推出 Angular 2 ？ {#为何匆忙推出-angular-2}
 
@@ -41,30 +41,12 @@ Angular 1 代码是基于 JavaScript 写的， 代码示例：
 
 ```
 var
- angular1 = angular
-       .module(
-'uiroute'
-, [
-'ui.router'
-]);
-angular1.controller(
-'CarController'
-, 
-function
-($scope)
+ angular1 = angular.module('uiroute', ['ui.router']);
+ angular1.controller('CarController', function($scope)
  {
-
-    $scope.CarList = [
-'Audi'
-, 
-'BMW'
-, 
-'Bugatti'
-, 
-'Jaguar'
-];
+    $scope.CarList = ['Audi', 'BMW', 
+'Bugatti', 'Jaguar'];
 });
-
 ```
 
 ---
@@ -103,16 +85,8 @@ Angular 2 代码 是基于 TypeScript 写的。 TypeScript与JavaScript 的区�
     'app-loader'
     ,  
         template: `  
-
-    <
-    div
-    >
-    <
-    div
-    >
-    <
-    h4
-    >
+    <div>
+    <div><h4>
     Welcome to Angular with ASP.NET Core and Visual Studio 2017
     <
     /
@@ -130,7 +104,6 @@ Angular 2 代码 是基于 TypeScript 写的。 TypeScript与JavaScript 的区�
     `  
     })  
     export class AppComponent{}
-
 
 如果不熟悉 TypeScript 语法，上面这段代码不知所云！ 既然差异这么大，把 Angular 1 升级到 Angular 2 难度之大，可以预见！
 
@@ -150,7 +123,7 @@ Angular 1的设计初衷是为了实现响应式网页、双向数据绑定的W
 
 可以说， Angular 2 是面向 mobile app 的架构，为了达到APP 原生的效果， Angular 2 特有引入了 NativeScript 技术。
 
-![](http://upload-images.jianshu.io/upload_images/8940388-a2c739eb82017bd3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240 "Angular 2 的APP 效果")
+![](http://upload-images.jianshu.io/upload_images/8940388-a2c739eb82017bd3.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240 "Angular 2 的APP 效果")
 
 ##### 如何解决APP 跨平台问题 {#如何解决app-跨平台问题}
 
