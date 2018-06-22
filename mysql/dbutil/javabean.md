@@ -1,2 +1,0 @@
-![](/javabean/import.png)
-

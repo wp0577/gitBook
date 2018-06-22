@@ -1,2 +1,0 @@
-![](/tra/import.png)
-

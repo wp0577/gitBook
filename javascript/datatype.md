@@ -1,3 +1,5 @@
+# DataType
+
 Data type:
 
 * Boolean
@@ -11,7 +13,7 @@ Data type:
 
 Define Object:
 
-```
+```text
 var temp = {
     a: 23;
     b: "sad";
@@ -23,7 +25,5 @@ var temp = {
 
 === strictly equal
 
-== non-strictly-equal   
-
-
+== non-strictly-equal
 
