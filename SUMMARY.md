@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
 * [Introduction to web](introduction-to-web/README.md)
@@ -84,8 +84,9 @@
     * [实例](java-web/el/shi-li.md)
   * [jstl](java-web/jstl.md)
   * [web开发三层架构](java-web/web-kai-fa-san-ceng-jia-gou.md)
-  * [Ajax](java-web/ajax.md)
-    * [Ajax概述](java-web/ajax/ajaxgai-shu.md)
+  * [Ajax](java-web/ajax/README.md)
+    * [Ajax概述](java-web/ajax/ajax-gai-shu.md)
+    * [js原生的Ajax技术](java-web/ajax/js-yuan-sheng-de-ajax-ji-shu.md)
 * [Angular](angular/README.md)
   * [版本区别](angular/ban-ben-qu-bie.md)
   * [大致流程](angular/da-zhi-liu-cheng.md)
