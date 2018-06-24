@@ -18,5 +18,49 @@ $(function(){
 
 {% page-ref page="../../jqeury/" %}
 
+## 案例实现
 
+简易案例实现，略去了跟数据库交互，而是直接在servlet中进行简单校验。
+
+{% code-tabs %}
+{% code-tabs-item title="jsp" %}
+```java
+$(function () {
+      $("#username").keyup(function () {
+          var text = $(this).val();
+          $.ajax({
+              url: "ajaxServlet",
+              async: true,
+              data:{"name":text},
+              success:function (data) {
+                  if(data == "success") {
+                      text = "username exisit";
+                  }
+                  else {
+                      text = "username doesn't exisit";
+                  }
+                  //alert(text);
+                  $("#span").html(text);
+              }
+
+          });
+      });
+  })
+
+```
+{% endcode-tabs-item %}
+
+{% code-tabs-item title="servlet" %}
+```java
+String name = request.getParameter("name");
+        System.out.println(name);
+        String res = "";
+
+        if(name.equals("wp")) res = "success";
+        else res ="false";
+        response.getWriter().write(res);
+        System.out.println(res);
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 
