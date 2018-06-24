@@ -90,6 +90,7 @@
   * [js原生的Ajax技术\(了解\)](ajax/js-yuan-sheng-de-ajax-ji-shu.md)
   * [Jquey的Ajax技术](ajax/jquey-de-ajax-ji-shu/README.md)
     * [实例测试](ajax/jquey-de-ajax-ji-shu/shi-li-ce-shi.md)
+    * [案例一：异步校验用户是否存在](ajax/jquey-de-ajax-ji-shu/an-li-yi-yi-bu-xiao-yan-yong-hu-shi-fou-cun-zai.md)
 * [Angular](angular/README.md)
   * [版本区别](angular/ban-ben-qu-bie.md)
   * [大致流程](angular/da-zhi-liu-cheng.md)
