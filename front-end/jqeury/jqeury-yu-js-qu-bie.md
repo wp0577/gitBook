@@ -2,7 +2,7 @@
 
 //JQ的加载比JS快，并且没有覆盖问题
 
-![](../.gitbook/assets/import%20%2854%29.png)
+![](../../.gitbook/assets/import%20%2854%29.png)
 
 ```javascript
 function JSWrite(){

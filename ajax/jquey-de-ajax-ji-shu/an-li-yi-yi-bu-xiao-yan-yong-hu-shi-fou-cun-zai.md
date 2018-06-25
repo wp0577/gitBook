@@ -16,7 +16,7 @@ $(function(){
 >
 > input等元素的内容是value值
 
-{% page-ref page="../../jqeury/" %}
+{% page-ref page="../../front-end/jqeury/" %}
 
 ## 案例实现
 
