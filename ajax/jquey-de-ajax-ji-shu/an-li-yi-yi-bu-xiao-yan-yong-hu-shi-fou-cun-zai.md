@@ -1,6 +1,6 @@
 # 案例一：异步校验用户是否存在
 
-![](../../.gitbook/assets/image%20%282%29.png)
+![](../../.gitbook/assets/image%20%285%29.png)
 
 ## 案例分析：
 

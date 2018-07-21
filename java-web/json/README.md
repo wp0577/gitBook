@@ -1,6 +1,6 @@
 # Json
 
-![json&#x4F7F;&#x7528;&#x6F14;&#x793A;](../../.gitbook/assets/image%20%284%29.png)
+![json&#x4F7F;&#x7528;&#x6F14;&#x793A;](../../.gitbook/assets/image%20%289%29.png)
 
 JSON: JavaScriptObjectNotation.
 
