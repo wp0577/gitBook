@@ -110,4 +110,10 @@
   * [MVC和三层架构](framework/mvc-he-san-ceng-jia-gou.md)
   * [Struts2](framework/struts2/README.md)
     * [struts2 流程](framework/struts2/struts2-liu-cheng.md)
+    * [配置](framework/struts2/pei-zhi.md)
+    * [客户列表实例](framework/struts2/ke-hu-lie-biao-shi-li.md)
+  * [Hibernate](framework/hibernate/README.md)
+    * [配置](framework/hibernate/pei-zhi.md)
+    * [CRM实例](framework/hibernate/crm-shi-li.md)
+    * [实体类创建](framework/hibernate/shi-ti-lei-chuang-jian.md)
 
