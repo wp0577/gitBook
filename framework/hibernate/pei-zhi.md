@@ -27,7 +27,11 @@
 				length(可选):配置数据库中列的长度. 默认值:使用数据库类型的最大长度
 		 -->
 		<id name="cust_id"  >
-			<!-- generator:主键生成策略(明天讲) -->
+			<!-- generator:主键生成策略
+			(identity : 主键自增.由数据库来维护主键值.录入时不需要指定主键.
+有线程安全问题): 主键hibrnate来维护.每次插入前会先查询表中id最大值.+1作为新主键值.			
+            native:hilo+sequence+identity 自动三选一策略.
+			) -->
 			<generator class="native"></generator>
 		</id>
 		<!-- property元素:除id之外的普通属性映射
