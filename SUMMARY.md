@@ -116,4 +116,7 @@
     * [配置](framework/hibernate/pei-zhi.md)
     * [CRM实例](framework/hibernate/crm-shi-li.md)
     * [实体类创建](framework/hibernate/shi-ti-lei-chuang-jian.md)
+    * [对象状态](framework/hibernate/dui-xiang-zhuang-tai.md)
+    * [一级缓存\_快照](framework/hibernate/yi-ji-huan-cun-kuai-zhao.md)
+    * [批量查询](framework/hibernate/pi-liang-cha-xun.md)
 
