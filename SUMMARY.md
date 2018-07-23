@@ -119,4 +119,7 @@
     * [对象状态](framework/hibernate/dui-xiang-zhuang-tai.md)
     * [一级缓存\_快照](framework/hibernate/yi-ji-huan-cun-kuai-zhao.md)
     * [批量查询](framework/hibernate/pi-liang-cha-xun.md)
+    * [关系查询](framework/hibernate/guan-xi-cha-xun/README.md)
+      * [多对一/一对多](framework/hibernate/guan-xi-cha-xun/duo-dui-yi-yi-dui-duo.md)
+      * [多对多](framework/hibernate/guan-xi-cha-xun/duo-dui-duo.md)
 
