@@ -112,6 +112,8 @@
     * [struts2 流程](framework/struts2/struts2-liu-cheng.md)
     * [配置](framework/struts2/pei-zhi.md)
     * [客户列表实例](framework/struts2/ke-hu-lie-biao-shi-li.md)
+    * [结果跳转方式](framework/struts2/jie-guo-tiao-zhuan-fang-shi.md)
+    * [访问servletAPI方式](framework/struts2/fang-wen-servletapi-fang-shi.md)
   * [Hibernate](framework/hibernate/README.md)
     * [配置](framework/hibernate/pei-zhi.md)
     * [CRM实例](framework/hibernate/crm-shi-li.md)

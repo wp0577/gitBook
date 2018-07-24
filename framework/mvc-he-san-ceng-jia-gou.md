@@ -4,7 +4,7 @@ M VC框架模型：
 
 MVC具体是一种思想，并不是一种实在的框架。
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
 c: controller作为中间者的角色在service和view中进行协调处理。
 

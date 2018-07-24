@@ -8,13 +8,13 @@
 
 Interceptor: 拦截器。Struts2相对于1而言最核心的思想就是拦截器，包含了很多架构思想。
 
-![](../../.gitbook/assets/image%20%2839%29.png)
+![](../../.gitbook/assets/image%20%2843%29.png)
 
 ##  AOP
 
 Aspect oriented programming\(面向切面编程\)
 
-![](../../.gitbook/assets/image%20%2847%29.png)
+![](../../.gitbook/assets/image%20%2852%29.png)
 
 ![](../../.gitbook/assets/image%20%283%29.png)
 
