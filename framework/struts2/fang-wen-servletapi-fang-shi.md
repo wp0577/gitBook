@@ -2,7 +2,7 @@
 
 ## 原理
 
-![](../../.gitbook/assets/image%20%2863%29.png)
+![](../../.gitbook/assets/image%20%2867%29.png)
 
 ## 通过ActionContext
 
@@ -10,13 +10,13 @@
 
 因为以下两种方法最终都是通过ActionContext来进行实现。
 
-![](../../.gitbook/assets/image%20%2846%29.png)
+![](../../.gitbook/assets/image%20%2850%29.png)
 
 ## 通过ServletActionContext
 
-![](../../.gitbook/assets/image%20%2839%29.png)
+![](../../.gitbook/assets/image%20%2843%29.png)
 
 ## 通过实现接口方式
 
-![](../../.gitbook/assets/image%20%2842%29.png)
+![](../../.gitbook/assets/image%20%2846%29.png)
 

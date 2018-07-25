@@ -90,5 +90,63 @@ action是服务器上处理表单提交数据的程序的路径;
 ```
 {% endhint %}
 
+{% code-tabs %}
+{% code-tabs-item title="UserAction" %}
+```
+package com.wp.example.web.action;
 
+import com.opensymphony.xwork2.ActionContext;
+import com.opensymphony.xwork2.ActionSupport;
+import com.opensymphony.xwork2.ModelDriven;
+import com.wp.example.domain.User;
+import com.wp.example.service.UserService;
+import com.wp.example.service.impl.UserServiceImp;
+import org.hibernate.criterion.DetachedCriteria;
+import org.hibernate.criterion.Restrictions;
+
+public class UserAction extends ActionSupport implements ModelDriven<User>{
+
+    private User user = new User();
+    DetachedCriteria dc = DetachedCriteria.forClass(user.getClass());
+    UserService userService = new UserServiceImp();
+    public String login() {
+        System.out.println(user.getUser_name());
+        dc.add(Restrictions.eq("user_name", user.getUser_name()));
+        dc.add(Restrictions.eq("user_password", user.getUser_password()));
+        boolean flag = userService.check(dc);
+        System.out.println(flag);
+        if (flag) {
+            ActionContext.getContext().getSession().put("user", user);
+            return SUCCESS;
+        }
+        else {
+            System.out.println("failded");
+            ActionContext.getContext().put("error", "wrong username or password");
+            return ERROR;
+        }
+    }
+
+    @Override
+    public User getModel() {
+        return user;
+    }
+}
+
+
+```
+{% endcode-tabs-item %}
+
+{% code-tabs-item title="error code" %}
+```text
+<SPAN style="color: red">${pageContext.request.getAttribute("error")}</SPAN>
+
+```
+{% endcode-tabs-item %}
+
+{% code-tabs-item title="username" %}
+```
+当前用户：${user.getUser_name()}
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 

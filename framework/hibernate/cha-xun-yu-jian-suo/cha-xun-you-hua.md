@@ -6,7 +6,7 @@ get方法:没有任何策略.调用即立即查询数据库加载数据.
 
 load方法: 应用类级别的加载策略
 
-![](../../../.gitbook/assets/image%20%2862%29.png)
+![](../../../.gitbook/assets/image%20%2866%29.png)
 
 lazy\(默认值\):true, 查询类时,会返回代理对象.会在使用属性时,根据关联的session查询数据库.加载数据.
 
@@ -18,11 +18,11 @@ lazy:false. load方法会与get方法没有任何区别.调用时即加载数据
 
 ## 关联级别查询
 
-![](../../../.gitbook/assets/image%20%2852%29.png)
+![](../../../.gitbook/assets/image%20%2856%29.png)
 
 ![](../../../.gitbook/assets/image%20%285%29.png)
 
 ## 批量抓取
 
-![](../../../.gitbook/assets/image%20%2834%29.png)
+![](../../../.gitbook/assets/image%20%2837%29.png)
 

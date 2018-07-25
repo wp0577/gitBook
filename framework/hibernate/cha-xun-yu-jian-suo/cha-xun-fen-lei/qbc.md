@@ -2,15 +2,15 @@
 
 ## QBC检索
 
-![](../../../../.gitbook/assets/image%20%2884%29.png)
+![](../../../../.gitbook/assets/image%20%2888%29.png)
 
-![](../../../../.gitbook/assets/image%20%2825%29.png)
+![](../../../../.gitbook/assets/image%20%2826%29.png)
 
-![](../../../../.gitbook/assets/image%20%2864%29.png)
+![](../../../../.gitbook/assets/image%20%2868%29.png)
 
 ![](../../../../.gitbook/assets/image%20%2819%29.png)
 
-![](../../../../.gitbook/assets/image%20%2883%29.png)
+![](../../../../.gitbook/assets/image%20%2887%29.png)
 
 ## 离线条件检索 
 

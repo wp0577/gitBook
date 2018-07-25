@@ -10,7 +10,7 @@ EL只能取值，而OGNL既能取值也可以赋值。
 struts2 的包中已经包含了.所以不需要导入额外的jar包
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%2880%29.png)
+![](../../../.gitbook/assets/image%20%2884%29.png)
 
-![](../../../.gitbook/assets/image%20%2826%29.png)
+![](../../../.gitbook/assets/image%20%2827%29.png)
 
