@@ -75,3 +75,20 @@ public class CustomerAction extends ActionSupport implements ModelDriven<Custome
 </s:iterator>
 ```
 
+## 登陆
+
+
+
+{% hint style="info" %}
+```text
+<!-- 
+onsubmit是表单提交事件，通过触发这个事件来提交表单;
+action是服务器上处理表单提交数据的程序的路径;
+用JS写表单验证函数只能onsubmit有关，onsubmit = "return 函数名()"，一定注意return
+-->
+<FORM id=form1 name=form1 action="${pageContext.request.contextPath}/UserAction_login" method=post>
+```
+{% endhint %}
+
+
+
