@@ -14,5 +14,7 @@ _idea搭建Struts2项目常见问题：_[_https://blog.csdn.net/shuai\_wy/articl
 
 
 
-\_\_
+## MVC和Struts MVC
+
+![](../../.gitbook/assets/image%20%2812%29.png)
 
