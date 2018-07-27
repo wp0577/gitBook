@@ -10,7 +10,7 @@ ValueStack就是类似于OGNL中的OGNLContext。
 什么是值栈
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%28134%29.png)
+![](../../../.gitbook/assets/image%20%28140%29.png)
 
 
 
@@ -18,7 +18,7 @@ ValueStack就是类似于OGNL中的OGNLContext。
 
 ![](../../../.gitbook/assets/image.png)
 
-![](../../../.gitbook/assets/image%20%2833%29.png)
+![](../../../.gitbook/assets/image%20%2835%29.png)
 
 ## 查看值栈中两部分内容\(使用DEBUG标签\)
 
@@ -26,15 +26,15 @@ ValueStack就是类似于OGNL中的OGNLContext。
 
 调试标签&lt;s:debug&gt;&lt;/s:debug&gt;
 
-![](../../../.gitbook/assets/image%20%2861%29.png)
+![](../../../.gitbook/assets/image%20%2864%29.png)
 
-![](../../../.gitbook/assets/image%20%2881%29.png)
+![](../../../.gitbook/assets/image%20%2884%29.png)
 
 ## 参数接收具体流程
 
 ![](../../../.gitbook/assets/image%20%288%29.png)
 
-![](../../../.gitbook/assets/image%20%2850%29.png)
+![](../../../.gitbook/assets/image%20%2852%29.png)
 
 ## 配置文件中的使用
 
@@ -42,5 +42,5 @@ ValueStack就是类似于OGNL中的OGNLContext。
 
 ## request查找顺序
 
-![](../../../.gitbook/assets/image%20%2841%29.png)
+![](../../../.gitbook/assets/image%20%2843%29.png)
 

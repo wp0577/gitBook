@@ -148,5 +148,7 @@
     * [Java三种代理模式](framework/spring/java-san-zhong-dai-li-mo-shi.md)
     * [Spring整合JDBC](framework/spring/spring-zheng-he-jdbc/README.md)
       * [Spring的AOP事务](framework/spring/spring-zheng-he-jdbc/spring-de-aop-shi-wu.md)
-    * [ssh整合](framework/spring/ssh-zheng-he.md)
+    * [ssh整合](framework/spring/ssh-zheng-he/README.md)
+      * [Spring和Struts整合](framework/spring/ssh-zheng-he/spring-he-struts-zheng-he.md)
+      * [Spring和hibernate整合](framework/spring/ssh-zheng-he/spring-he-hibernate-zheng-he.md)
 
