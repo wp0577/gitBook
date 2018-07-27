@@ -144,5 +144,9 @@
     * [Spring和junit整合](framework/spring/spring-he-junit-zheng-he.md)
     * [aop](framework/spring/aop/README.md)
       * [Spring的aop](framework/spring/aop/spring-de-aop.md)
+      * [Spring的aop配置](framework/spring/aop/spring-de-aop-pei-zhi.md)
     * [Java三种代理模式](framework/spring/java-san-zhong-dai-li-mo-shi.md)
+    * [Spring整合JDBC](framework/spring/spring-zheng-he-jdbc/README.md)
+      * [Spring的AOP事务](framework/spring/spring-zheng-he-jdbc/spring-de-aop-shi-wu.md)
+    * [ssh整合](framework/spring/ssh-zheng-he.md)
 
