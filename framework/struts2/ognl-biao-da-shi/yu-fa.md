@@ -14,9 +14,9 @@
 
 ## 调用静态方法
 
-![](../../../.gitbook/assets/image%20%28133%29.png)
+![](../../../.gitbook/assets/image%20%28144%29.png)
 
 ## 创建对象 
 
-![](../../../.gitbook/assets/image%20%28101%29.png)
+![](../../../.gitbook/assets/image%20%28108%29.png)
 

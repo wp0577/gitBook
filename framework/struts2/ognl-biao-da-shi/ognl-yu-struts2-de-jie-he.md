@@ -10,7 +10,7 @@ ValueStack就是类似于OGNL中的OGNLContext。
 什么是值栈
 {% endhint %}
 
-![](../../../.gitbook/assets/image%20%28140%29.png)
+![](../../../.gitbook/assets/image%20%28151%29.png)
 
 
 
@@ -26,15 +26,15 @@ ValueStack就是类似于OGNL中的OGNLContext。
 
 调试标签&lt;s:debug&gt;&lt;/s:debug&gt;
 
-![](../../../.gitbook/assets/image%20%2864%29.png)
+![](../../../.gitbook/assets/image%20%2865%29.png)
 
-![](../../../.gitbook/assets/image%20%2884%29.png)
+![](../../../.gitbook/assets/image%20%2888%29.png)
 
 ## 参数接收具体流程
 
 ![](../../../.gitbook/assets/image%20%288%29.png)
 
-![](../../../.gitbook/assets/image%20%2852%29.png)
+![](../../../.gitbook/assets/image%20%2853%29.png)
 
 ## 配置文件中的使用
 
