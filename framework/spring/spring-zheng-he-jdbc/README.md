@@ -12,33 +12,33 @@ JDBCTemplate =&gt; JDBC模板对象
 
 与DBUtils中的QueryRunner非常相似.
 
-![](../../../.gitbook/assets/image%20%2896%29.png)
+![](../../../.gitbook/assets/image%20%2897%29.png)
 
 ## 步骤
 
 ### 导包
 
-![](../../../.gitbook/assets/image%20%2866%29.png)
+![](../../../.gitbook/assets/image%20%2867%29.png)
 
 ### 准备数据库
 
 ### 书写Dao
 
-![&#x8BE5;&#x56FE;&#x7247;&#x5185;&#x7684;Dao&#x5BF9;&#x8C61;&#x5DF2;&#x7ECF;&#x7EE7;&#x627F;&#x4E86;DaoSupport&#x5BF9;&#x8C61;&#xFF0C;&#x6240;&#x4EE5;&#x53EF;&#x4EE5;&#x76F4;&#x63A5;&#x8C03;&#x7528;&#x7236;&#x7C7B;&#x7684;&#x65B9;&#x6CD5;&#x5F97;&#x5230;jdbcTemplate](../../../.gitbook/assets/image%20%28121%29.png)
+![&#x8BE5;&#x56FE;&#x7247;&#x5185;&#x7684;Dao&#x5BF9;&#x8C61;&#x5DF2;&#x7ECF;&#x7EE7;&#x627F;&#x4E86;DaoSupport&#x5BF9;&#x8C61;&#xFF0C;&#x6240;&#x4EE5;&#x53EF;&#x4EE5;&#x76F4;&#x63A5;&#x8C03;&#x7528;&#x7236;&#x7C7B;&#x7684;&#x65B9;&#x6CD5;&#x5F97;&#x5230;jdbcTemplate](../../../.gitbook/assets/image%20%28122%29.png)
 
 ### Srping配置
 
 #### 依赖关系 
 
-![](../../../.gitbook/assets/image%20%28133%29.png)
+![](../../../.gitbook/assets/image%20%28134%29.png)
 
-![](../../../.gitbook/assets/image%20%2841%29.png)
+![](../../../.gitbook/assets/image%20%2842%29.png)
 
 #### JDBCDaoSupport
 
-![&#x53EF;&#x4EE5;&#x4E0D;&#x7528;&#x6CE8;&#x5165;JDBCTemplate&#x5BF9;&#x8C61;](../../../.gitbook/assets/image%20%28107%29.png)
+![&#x53EF;&#x4EE5;&#x4E0D;&#x7528;&#x6CE8;&#x5165;JDBCTemplate&#x5BF9;&#x8C61;](../../../.gitbook/assets/image%20%28108%29.png)
 
 #### 读取外部的properties配置
 
-![](../../../.gitbook/assets/image%20%28142%29.png)
+![](../../../.gitbook/assets/image%20%28143%29.png)
 

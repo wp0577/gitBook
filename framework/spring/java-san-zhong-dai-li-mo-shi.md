@@ -4,7 +4,7 @@ description: youtube javaweb列表 基础加强
 
 # Java三种代理模式
 
-![](../../.gitbook/assets/image%20%2834%29.png)
+![](../../.gitbook/assets/image%20%2835%29.png)
 
 代理其实就是给目标对象进行增强（增加功能或者减少目标对象的代码数量）
 

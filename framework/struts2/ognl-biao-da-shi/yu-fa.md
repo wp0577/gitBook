@@ -6,7 +6,7 @@
 
 ## 赋值：
 
-![](../../../.gitbook/assets/image%20%2830%29.png)
+![](../../../.gitbook/assets/image%20%2831%29.png)
 
 ## 调用方法
 
@@ -14,9 +14,9 @@
 
 ## 调用静态方法
 
-![](../../../.gitbook/assets/image%20%28144%29.png)
+![](../../../.gitbook/assets/image%20%28145%29.png)
 
 ## 创建对象 
 
-![](../../../.gitbook/assets/image%20%28108%29.png)
+![](../../../.gitbook/assets/image%20%28109%29.png)
 
