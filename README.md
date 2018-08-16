@@ -1,4 +1,3 @@
 # Introduction
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
-
+This book is to record my study process of javaEE, and help to save point of all the problems I had during my study.
