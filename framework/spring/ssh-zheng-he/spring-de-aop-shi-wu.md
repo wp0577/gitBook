@@ -2,25 +2,25 @@
 
 ## 准备工作
 
-![](../../../.gitbook/assets/image%20%2891%29.png)
+![](../../../.gitbook/assets/image%20%2892%29.png)
 
 ## xml配置aop事务
 
 ### 配置通知
 
-![](../../../.gitbook/assets/image%20%28145%29.png)
+![](../../../.gitbook/assets/image%20%28150%29.png)
 
 ### 配置织入
 
-![](../../../.gitbook/assets/image%20%28176%29.png)
+![](../../../.gitbook/assets/image%20%28182%29.png)
 
 ## 注解配置aop事务
 
 ### 开启注解事务
 
-![](../../../.gitbook/assets/image%20%28157%29.png)
+![](../../../.gitbook/assets/image%20%28162%29.png)
 
 ### Service类中使用注解
 
-![](../../../.gitbook/assets/image%20%28160%29.png)
+![](../../../.gitbook/assets/image%20%28165%29.png)
 
