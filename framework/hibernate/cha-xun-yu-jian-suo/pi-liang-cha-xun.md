@@ -4,15 +4,15 @@
 
 ### 基本查询：
 
-![](../../../.gitbook/assets/image%20%2821%29.png)
+![](../../../.gitbook/assets/image%20%2825%29.png)
 
 ### 条件查询：
 
-![](../../../.gitbook/assets/image%20%28116%29.png)
+![](../../../.gitbook/assets/image%20%28132%29.png)
 
 ### 分页查询：
 
-![](../../../.gitbook/assets/image%20%28135%29.png)
+![](../../../.gitbook/assets/image%20%28153%29.png)
 
 ## Criteria查询\(单表条件查询时使用\)
 
@@ -20,31 +20,31 @@ Hibernate自创的无语句面向对象查询
 
 ### 基本查询
 
-![](../../../.gitbook/assets/image%20%2862%29.png)
+![](../../../.gitbook/assets/image%20%2877%29.png)
 
 ### 条件查询
 
-![](../../../.gitbook/assets/image%20%2873%29.png)
+![](../../../.gitbook/assets/image%20%2888%29.png)
 
 ### 分页查询
 
-![](../../../.gitbook/assets/image%20%2856%29.png)
+![](../../../.gitbook/assets/image%20%2870%29.png)
 
 ## 原生SQL查询（复杂的业务查询使用）
 
 ### 基本查询
 
-![](../../../.gitbook/assets/image%20%2880%29.png)
+![](../../../.gitbook/assets/image%20%2895%29.png)
 
 返回对象List更为常用
 
 ### 条件查询
 
-![](../../../.gitbook/assets/image%20%2858%29.png)
+![](../../../.gitbook/assets/image%20%2872%29.png)
 
 ### 分页查询
 
-![](../../../.gitbook/assets/image%20%2834%29.png)
+![](../../../.gitbook/assets/image%20%2840%29.png)
 
 
 
