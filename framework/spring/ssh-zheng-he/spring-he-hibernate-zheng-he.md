@@ -12,11 +12,11 @@
 
 #### 1：通过直接读取配置文件
 
-![](../../../.gitbook/assets/image%20%28112%29.png)
+![](../../../.gitbook/assets/image%20%28119%29.png)
 
 #### 2：直接在applicationcontext.xml文件中配置必须属性
 
-![](../../../.gitbook/assets/image%20%2862%29.png)
+![](../../../.gitbook/assets/image%20%2867%29.png)
 
 在该方法中配置要记得配置mapping属性
 
@@ -26,15 +26,15 @@
 
 ### 1.配置db.properties
 
-![](../../../.gitbook/assets/image%20%28154%29.png)
+![](../../../.gitbook/assets/image%20%28161%29.png)
 
 ### 2.引入连接池到spring中
 
-![](../../../.gitbook/assets/image%20%28105%29.png)
+![](../../../.gitbook/assets/image%20%28112%29.png)
 
 ### 3.将连接池注入给SessionFactory
 
-![](../../../.gitbook/assets/image%20%28126%29.png)
+![](../../../.gitbook/assets/image%20%28133%29.png)
 
 ## Spring整合HibernateTemplate操作数据库
 
@@ -44,15 +44,15 @@
 
 #### execute
 
-![](../../../.gitbook/assets/image%20%28119%29.png)
+![](../../../.gitbook/assets/image%20%28126%29.png)
 
 #### findByCriteria
 
-![](../../../.gitbook/assets/image%20%2893%29.png)
+![](../../../.gitbook/assets/image%20%2899%29.png)
 
 ### spring中配置dao
 
-![](../../../.gitbook/assets/image%20%28185%29.png)
+![](../../../.gitbook/assets/image%20%28192%29.png)
 
 
 

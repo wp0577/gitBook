@@ -300,7 +300,7 @@ PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
 
 在SqlMapConfig如下图进行配置:
 
-![](../../.gitbook/assets/image%20%2868%29.png)
+![](../../.gitbook/assets/image%20%2873%29.png)
 
 **1.4.2.3. 实现UserDao接口**
 
@@ -416,7 +416,7 @@ SqlSessionDaoSupport提供getSqlSession\(\)方法来获取SqlSession
 
 把dao实现类配置到spring容器中，如下图
 
-![](../../.gitbook/assets/image%20%28168%29.png)
+![](../../.gitbook/assets/image%20%28175%29.png)
 
 **1.4.2.6. 测试方法**
 

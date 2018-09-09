@@ -2,9 +2,9 @@
 
  
 
-![Spring&#x5305;&#x7ED3;&#x6784;](../../../.gitbook/assets/image%20%2884%29.png)
+![Spring&#x5305;&#x7ED3;&#x6784;](../../../.gitbook/assets/image%20%2889%29.png)
 
-![](../../../.gitbook/assets/image%20%2898%29.png)
+![](../../../.gitbook/assets/image%20%28104%29.png)
 
 
 
@@ -12,15 +12,15 @@
 
 ### 对象创建方式
 
-![](../../../.gitbook/assets/image%20%28117%29.png)
+![](../../../.gitbook/assets/image%20%28124%29.png)
 
 ### Bean元素配置
 
-![](../../../.gitbook/assets/image%20%2825%29.png)
+![](../../../.gitbook/assets/image%20%2827%29.png)
 
 ### 模块化配置
 
-![](../../../.gitbook/assets/image%20%28188%29.png)
+![](../../../.gitbook/assets/image%20%28195%29.png)
 
 
 

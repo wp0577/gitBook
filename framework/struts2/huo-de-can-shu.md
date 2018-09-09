@@ -8,17 +8,17 @@
 
 ## 属性驱动获得参数
 
-![](../../.gitbook/assets/image%20%28113%29.png)
+![](../../.gitbook/assets/image%20%28120%29.png)
 
 ## 对象驱动
 
-![](../../.gitbook/assets/image%20%28131%29.png)
+![](../../.gitbook/assets/image%20%28138%29.png)
 
 ## 模型驱动
 
-![](../../.gitbook/assets/image%20%2891%29.png)
+![](../../.gitbook/assets/image%20%2897%29.png)
 
 ## 集合类型参数封装
 
-![](../../.gitbook/assets/image%20%28170%29.png)
+![](../../.gitbook/assets/image%20%28177%29.png)
 

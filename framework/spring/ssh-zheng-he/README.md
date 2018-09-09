@@ -2,7 +2,7 @@
 
 ## 三大框架整合原理
 
-![](../../../.gitbook/assets/image%20%2835%29.png)
+![](../../../.gitbook/assets/image%20%2838%29.png)
 
 ## 导包
 
@@ -12,7 +12,7 @@
 
 配置spring随项目启动
 
-![](../../../.gitbook/assets/image%20%28181%29.png)
+![](../../../.gitbook/assets/image%20%28188%29.png)
 
 
 

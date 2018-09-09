@@ -2,19 +2,19 @@
 
 ## 架构
 
-![](../../.gitbook/assets/image%20%2875%29.png)
+![](../../.gitbook/assets/image%20%2880%29.png)
 
 ## 自定义拦截器创建
 
 有三种方式，最常用的是
 
-![](../../.gitbook/assets/image%20%2885%29.png)
+![](../../.gitbook/assets/image%20%2890%29.png)
 
 ## 拦截器API
 
-![](../../.gitbook/assets/image%20%2867%29.png)
+![](../../.gitbook/assets/image%20%2872%29.png)
 
 ## 拦截器配置
 
-![](../../.gitbook/assets/image%20%2858%29.png)
+![](../../.gitbook/assets/image%20%2863%29.png)
 
