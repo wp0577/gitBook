@@ -10,7 +10,7 @@
 
 逆向工程生成代码如下图：
 
-![](../../../.gitbook/assets/image%20%28186%29.png)
+![](../../../.gitbook/assets/image%20%28190%29.png)
 
 ### 1.2. ItemService接口
 

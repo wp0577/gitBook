@@ -2,23 +2,23 @@
 
 ## 表中的关系表达
 
-![](../../../../.gitbook/assets/image%20%28127%29.png)
+![](../../../../.gitbook/assets/image%20%28130%29.png)
 
 ## ORM配置文件中的表达
 
-![](../../../../.gitbook/assets/image%20%28191%29.png)
+![](../../../../.gitbook/assets/image%20%28195%29.png)
 
 ## 操作
 
-![](../../../../.gitbook/assets/image%20%28114%29.png)
+![](../../../../.gitbook/assets/image%20%28116%29.png)
 
 ### 级联操作
 
-![](../../../../.gitbook/assets/image%20%2875%29.png)
+![](../../../../.gitbook/assets/image%20%2876%29.png)
 
 ### 关系维护（减少冗余）
 
-![](../../../../.gitbook/assets/image%20%28106%29.png)
+![](../../../../.gitbook/assets/image%20%28108%29.png)
 
 配置inverse后，可以将代码中一的一方add\(\)方法省略。
 

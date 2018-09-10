@@ -12,7 +12,7 @@
 
 配置spring随项目启动
 
-![](../../../.gitbook/assets/image%20%28188%29.png)
+![](../../../.gitbook/assets/image%20%28192%29.png)
 
 
 

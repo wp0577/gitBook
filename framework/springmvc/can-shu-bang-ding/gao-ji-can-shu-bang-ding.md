@@ -148,7 +148,7 @@ List中存放对象，并将定义的List放在包装类QueryVo中
 
 前端页面应该显示的html代码，如下图：
 
-![](../../../.gitbook/assets/image%20%2857%29.png)
+![](../../../.gitbook/assets/image%20%2858%29.png)
 
 分析发现：name属性必须是list属性名+下标+元素属性。
 
