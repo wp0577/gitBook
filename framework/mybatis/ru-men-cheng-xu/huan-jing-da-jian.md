@@ -2,7 +2,7 @@
 
 ## 导包
 
-![](../../../.gitbook/assets/image%20%28143%29.png)
+![](../../../.gitbook/assets/image%20%28145%29.png)
 
 ## 加入配置文件
 
@@ -55,7 +55,7 @@ SqlMapConfig.xml是mybatis核心配置文件，配置文件内容为数据源、
 
 ## 创建pojo
 
-![](../../../.gitbook/assets/image%20%2856%29.png)
+![](../../../.gitbook/assets/image%20%2857%29.png)
 
 ```text
 Public class User {
@@ -87,5 +87,5 @@ PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
 
 mybatis框架需要加载Mapper.xml映射文件 将users.xml添加在SqlMapConfig.xml，如下：
 
-![](../../../.gitbook/assets/image%20%2863%29.png)
+![](../../../.gitbook/assets/image%20%2864%29.png)
 

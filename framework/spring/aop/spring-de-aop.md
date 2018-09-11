@@ -1,6 +1,6 @@
 # Spring的aop
 
-![](../../../.gitbook/assets/image%20%28124%29.png)
+![](../../../.gitbook/assets/image%20%28126%29.png)
 
 ## aop思想介绍
 
@@ -14,7 +14,7 @@
 
 [https://wp0577.gitbook.io/test1/~/edit/drafts/-LIIUkTqMKRrl2sHbnZQ/framework/spring/aop/spring-de-aop](https://wp0577.gitbook.io/test1/~/edit/drafts/-LIIUkTqMKRrl2sHbnZQ/framework/spring/aop/spring-de-aop)
 
-![](../../../.gitbook/assets/image%20%28132%29.png)
+![](../../../.gitbook/assets/image%20%28134%29.png)
 
 ## AOP名词
 

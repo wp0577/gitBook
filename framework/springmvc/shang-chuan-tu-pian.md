@@ -18,7 +18,7 @@
 
 实现图片上传需要加入的jar包，如下图：
 
-![](../../.gitbook/assets/image%20%28123%29.png)
+![](../../.gitbook/assets/image%20%28125%29.png)
 
 把两个jar包放到工程的lib文件夹中
 
@@ -42,11 +42,11 @@
 
 在商品修改页面，打开图片上传功能，如下图：
 
-![](../../.gitbook/assets/image%20%28154%29.png)
+![](../../.gitbook/assets/image%20%28156%29.png)
 
 设置表单可以进行文件上传，如下图：
 
-![](../../.gitbook/assets/image%20%2898%29.png)
+![](../../.gitbook/assets/image%20%28100%29.png)
 
 ### 1.5. 图片上传
 

@@ -21,7 +21,7 @@ Mapper接口开发需要遵循以下规范：
 
 将UserMapper.xml放在config下mapper目录下，效果如下：
 
-![](../../../.gitbook/assets/image%20%2849%29.png)
+![](../../../.gitbook/assets/image%20%2850%29.png)
 
 UserMapper.xml配置文件内容：
 

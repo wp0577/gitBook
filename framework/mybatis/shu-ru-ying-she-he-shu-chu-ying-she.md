@@ -14,7 +14,7 @@ Mapper.xml映射文件中定义了操作数据库的sql，每个sql是一个stat
 
 4. 如下图修改SqlMapConfig.xml配置文件。Mapper映射器只保留包扫描的方式
 
-![](../../.gitbook/assets/image%20%28194%29.png)
+![](../../.gitbook/assets/image%20%28196%29.png)
 
 ### 1.2. parameterType\(输入类型\)
 
@@ -70,7 +70,7 @@ SELECT \* FROM user WHERE username LIKE '%张%'
 
 在UserMapper.xml中配置sql，如下图。
 
-![](../../.gitbook/assets/image%20%2854%29.png)
+![](../../.gitbook/assets/image%20%2855%29.png)
 
 **1.2.3.4. Mapper接口**
 
