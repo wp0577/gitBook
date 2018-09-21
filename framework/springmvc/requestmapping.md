@@ -42,7 +42,7 @@ value的值是数组，可以将多个url映射到同一个方法
 
 可以使用此方法对url进行分类管理，如下图：
 
-![](../../.gitbook/assets/image%20%28111%29.png)
+![](../../.gitbook/assets/image%20%28139%29.png)
 
 此时需要进入queryItemList\(\)方法的请求url为：
 
@@ -260,5 +260,5 @@ Controller方法执行后继续执行另一个Controller方法
 
 修改，如下图：：
 
-![](../../.gitbook/assets/image%20%2843%29.png)
+![](../../.gitbook/assets/image%20%2846%29.png)
 

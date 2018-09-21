@@ -8,7 +8,7 @@ springmvc在处理请求过程中出现异常信息交由异常处理器进行�
 
             系统的dao、service、controller出现都通过throws Exception向上抛出，最后由springmvc前端控制器交由异常处理器进行异常处理，如下图：
 
-![](../../.gitbook/assets/image%20%2834%29.png)
+![](../../.gitbook/assets/image%20%2836%29.png)
 
 Controller客户端ServiceDaoSpringmvcDispatcherServlet请求异常HandlerExceptionResolver异常处理器异常异常
 

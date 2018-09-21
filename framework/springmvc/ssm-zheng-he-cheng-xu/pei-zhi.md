@@ -16,7 +16,7 @@
 
 jar包位置如下图：
 
-![](../../../.gitbook/assets/image%20%2891%29.png)
+![](../../../.gitbook/assets/image%20%28113%29.png)
 
 ### 1.2. 整合思路
 
@@ -424,5 +424,5 @@ log4j.appender.stdout.layout.ConversionPattern=%5p \[%t\] - %m%n
 
 最终效果如下图：
 
-![](../../../.gitbook/assets/image%20%2846%29.png)
+![](../../../.gitbook/assets/image%20%2849%29.png)
 

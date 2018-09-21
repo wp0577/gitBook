@@ -44,7 +44,7 @@ LEFT JOIN \`user\` u ON o.user\_id = u.id
 
 OrderUser类继承Order类后OrderUser类包括了Order类的所有字段，只需要定义用户的信息字段即可，如下图：
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](../../.gitbook/assets/image%20%2812%29.png)
 
 **1.2.1.2. Mapper.xml**
 
@@ -84,7 +84,7 @@ OrderUser类继承Order类后OrderUser类包括了Order类的所有字段，只�
 
 在UserMapper接口添加方法，如下图：
 
-![](../../.gitbook/assets/image%20%2883%29.png)
+![](../../.gitbook/assets/image%20%2896%29.png)
 
 **1.2.1.4. 测试方法：**
 
@@ -138,7 +138,7 @@ OrderUser类继承Order类后OrderUser类包括了Order类的所有字段，只�
 
 改造Order如下图：
 
-![](../../.gitbook/assets/image%20%2867%29.png)
+![](../../.gitbook/assets/image%20%2873%29.png)
 
 **1.2.2.2. Mapper.xml**
 
@@ -358,7 +358,7 @@ LEFT JOIN \`order\` o ON u.id = o.user\_id
 
 编写UserMapper接口，如下图：
 
-![](../../.gitbook/assets/image%20%2851%29.png)
+![](../../.gitbook/assets/image%20%2855%29.png)
 
 #### 1.3.4. 测试方法
 

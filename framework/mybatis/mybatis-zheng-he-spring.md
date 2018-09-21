@@ -26,7 +26,7 @@
 
 jar包位置如下所示：
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../../.gitbook/assets/image%20%286%29.png)
 
 ### 1.3. 整合的步骤
 
@@ -300,7 +300,7 @@ PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
 
 在SqlMapConfig如下图进行配置:
 
-![](../../.gitbook/assets/image%20%2875%29.png)
+![](../../.gitbook/assets/image%20%2884%29.png)
 
 **1.4.2.3. 实现UserDao接口**
 
@@ -416,7 +416,7 @@ SqlSessionDaoSupport提供getSqlSession\(\)方法来获取SqlSession
 
 把dao实现类配置到spring容器中，如下图
 
-![](../../.gitbook/assets/image%20%28181%29.png)
+![](../../.gitbook/assets/image%20%28229%29.png)
 
 **1.4.2.6. 测试方法**
 

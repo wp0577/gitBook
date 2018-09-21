@@ -4,7 +4,7 @@
 
 框架结构如下图：
 
-![](../../.gitbook/assets/image%20%2814%29.png)
+![](../../.gitbook/assets/image%20%2816%29.png)
 
 ### 1.2. 架构流程
 

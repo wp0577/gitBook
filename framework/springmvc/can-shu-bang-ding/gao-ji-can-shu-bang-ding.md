@@ -88,7 +88,7 @@ Controller方法中可以用String\[\]接收，或者pojo的String\[\]属性接�
 
 定义QueryVo，如下图：
 
-![](../../../.gitbook/assets/image%20%2823%29.png)
+![](../../../.gitbook/assets/image%20%2825%29.png)
 
 ItemController修改queryItem方法：
 
@@ -142,13 +142,13 @@ List中存放对象，并将定义的List放在包装类QueryVo中
 
 使用包装pojo对象接收，如下图：
 
-![](../../../.gitbook/assets/image%20%2816%29.png)
+![](../../../.gitbook/assets/image%20%2818%29.png)
 
 #### 1.2.4. Jsp改造
 
 前端页面应该显示的html代码，如下图：
 
-![](../../../.gitbook/assets/image%20%2859%29.png)
+![](../../../.gitbook/assets/image%20%2863%29.png)
 
 分析发现：name属性必须是list属性名+下标+元素属性。
 

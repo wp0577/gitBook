@@ -50,7 +50,7 @@ itemEdit.action?id=1&name=zhangsan&age=12
 
 我们使用Jackson这个jar，如下图：
 
-![](../../.gitbook/assets/image%20%2839%29.png)
+![](../../.gitbook/assets/image%20%2841%29.png)
 
 #### 1.3.2. ItemController编写
 
