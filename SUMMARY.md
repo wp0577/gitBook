@@ -191,4 +191,7 @@
   * [Intellij IDEA 像eclipse那样给maven添加依赖](maven/intellij-idea-xiang-eclipse-na-yang-gei-maven-tian-jia-yi-lai.md)
   * [分模块开发](maven/fen-mo-kuai-kai-fa.md)
   * [创建SSH项目](maven/chuang-jian-ssh-xiang-mu.md)
+* [Lucene&Solr](lucene/README.md)
+  * [Lucene](lucene/lucene.md)
+  * [Solr](lucene/solr.md)
 
