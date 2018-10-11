@@ -1,6 +1,6 @@
 # Spring整合JDBC
 
-{% embed data="{\"url\":\"https://wp0577.gitbook.io/test1/mysql/lian-jie-chi/dbutil\",\"type\":\"link\",\"title\":\"DButil - JavaEE\",\"icon\":{\"type\":\"icon\",\"url\":\"https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/spaces%2F-LFcIEEpyyi7v-mjfE-X%2Favatar.png?generation=1529684491520080&alt=media\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.gitbook.com/share/space/thumbnail/-LFcIEEpyyi7v-mjfE-X.png\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525}}" %}
+{% embed url="https://wp0577.gitbook.io/test1/mysql/lian-jie-chi/dbutil" %}
 
 ## spring提供了很多模板整合Dao技术
 

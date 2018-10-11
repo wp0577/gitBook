@@ -34,6 +34,10 @@ itemEdit.action?id=1&name=zhangsan&age=12
 
 ### 1.2. @ResponseBody
 
+{% hint style="info" %}
+### @ResponseBody注解会自动调用Jackson
+{% endhint %}
+
 作用：
 
 @ResponseBody注解用于将Controller的方法返回的对象，通过springmvc提供的HttpMessageConverter接口转换为指定格式的数据如：json,xml等，通过Response响应给客户端

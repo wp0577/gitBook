@@ -1,5 +1,11 @@
 # Mybatis逆向工程
 
+{% hint style="info" %}
+可以通过Maven的Mybatis-generator插件实现
+
+[https://coding.imooc.com/lesson/96.html\#mid=3271](https://coding.imooc.com/lesson/96.html#mid=3271)
+{% endhint %}
+
 
 
 使用官方网站的Mapper自动生成工具mybatis-generator-core-1.3.2来生成po类和Mapper映射文件
@@ -8,7 +14,7 @@
 
 使用课前资料已有逆向工程，如下图：
 
-![](../../.gitbook/assets/image%20%2858%29.png)
+![](../../../.gitbook/assets/image%20%2858%29.png)
 
 #### 1.1.1. 复制逆向工程到工作空间中
 
